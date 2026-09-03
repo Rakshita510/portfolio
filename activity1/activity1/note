@@ -1,7 +1,0 @@
-I installed and configured VS Code with the C/C++ extension.
-I installed MinGW-w64 GCC and configured the PATH environment variable.
-I verified the GCC installation using the gcc --version command.
-I created a hello.c file in VS Code.
-I compiled the program using the GCC compiler without errors.
-I executed the program successfully and got the output “Hello, World!”.
-The setup was completed successfully.
